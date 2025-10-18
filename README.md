@@ -29,12 +29,10 @@
 ### 1. [AI Virtual Voice Assistant](https://github.com/vinodhan07/AI_Virutal_VOICE_ASSIT)
 - 🗣️ Voice & text input-based AI assistant  
 - 🌐 Web automation, real-time info, AI-powered responses  
-- ![Voice Assistant Demo](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)  
 
 ### 2. [ChatGPT-2](https://github.com/vinodhan07/Chatgpt-2.git)
 - 🤖 Custom GPT-based chatbot  
-- 💬 Interactive AI conversation system in Python  
-- ![ChatGPT-2 Demo](https://media.giphy.com/media/l0HlPjezFj6GScJmA/giphy.gif)  
+- 💬 Interactive AI conversation system in Python    
 
 ### 3. [FinAI HackOps](https://github.com/vinodhan07/finai-hackops-10799-23158.git)
 - 💹 Financial AI project for Hackathon  
