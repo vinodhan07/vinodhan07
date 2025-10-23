@@ -1,7 +1,4 @@
 # 👋 Hi, I'm Vinodhan  
-
-![Profile Banner](https://github.com/vinodhan07.png?size=200)  
-
 🚀 **AI & Python Enthusiast | Building Innovative Solutions | Open to Collaboration & Opportunities**  
 
 ---
