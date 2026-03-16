@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Vinodhan;AI+Developer;Python+Engineer;Machine+Learning+Enthusiast;Building+AI+Powered+Applications"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Vinodhan;AI+Engineer;LLM+Developer;Computer+Vision+Developer;Building+AI+Agents+and+Automation"/>
 </p>
 
 <p align="center">
@@ -8,59 +8,149 @@
 
 ---
 
-# 🚀 AI Developer | Python Engineer | ML Enthusiast
+# 👋 Vinodhan V A
+**AI Engineer | LLM Developer | Computer Vision | Automation Systems**
 
-I build **AI-powered applications, automation tools, and intelligent systems** using modern machine learning and Python frameworks.
-
-### 🔬 Focus Areas
-
-• Artificial Intelligence  
-• Machine Learning  
-• AI Automation  
-• Voice Assistants  
-• GPT Applications  
+Final-year Computer Science student focused on building **AI-powered applications, LLM pipelines, and intelligent automation systems** with real-world deployment experience.
 
 ---
 
-# 🧠 Tech Stack
+# 🚀 Core Expertise
+
+• AI Agents & Automation  
+• Retrieval Augmented Generation (RAG)  
+• Vector Databases & Semantic Search  
+• Computer Vision Systems  
+• LLM Applications  
+• Backend API Engineering  
+
+---
+
+# 🧠 Technical Stack
 
 ## Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
 
-## AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
-
-## Tools & Frameworks
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+### Python Ecosystem
+NumPy • Pandas • OpenCV • TensorFlow • LangChain • LangGraph • YOLO
 
 ---
 
-# 🏆 GitHub Achievements
+## AI / ML Systems
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vinodhan07&theme=algolia&no-frame=true&row=1&column=7"/>
-</p>
+• Retrieval Augmented Generation (RAG)  
+• FAISS Vector Search  
+• Model Context Protocol (MCP)  
+• AI Agents  
+
+---
+
+## Backend & Web
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css)
+
+HTML • CSS • JavaScript • REST APIs
+
+---
+
+## Databases & Infrastructure
+
+MongoDB  
+Supabase  
+Qdrant Vector Database  
+Docker  
+
+---
+
+## Cloud & APIs
+
+OpenAI  
+Gemini  
+Claude  
+AWS EC2  
+AWS Lightsail  
+Google Cloud APIs  
 
 ---
 
 # 🚀 Featured Projects
 
-<a href="https://github.com/vinodhan07/AI_Virutal_VOICE_ASSIT">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vinodhan07&repo=AI_Virutal_VOICE_ASSIT&theme=tokyonight" />
-</a>
+### AI Image Similarity Detection System
 
-<a href="https://github.com/vinodhan07/Chatgpt-2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vinodhan07&repo=Chatgpt-2&theme=tokyonight" />
-</a>
+Computer vision pipeline using **OpenCLIP embeddings and FAISS** for scalable vector-based image similarity search.
 
-<a href="https://github.com/vinodhan07/finai-hackops-10799-23158">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vinodhan07&repo=finai-hackops-10799-23158&theme=tokyonight" />
-</a>
+Key Features
+
+• Duplicate image detection across datasets  
+• Automated dataset scraping pipeline  
+• FastAPI backend  
+• React frontend for search visualization
+
+---
+
+### EnvVault – Secure Environment Variable Manager
+
+Developer CLI utility for managing **API keys and environment variables securely**.
+
+Capabilities
+
+• Encrypted credential storage  
+• Multi-project environment management  
+• Secure configuration deployment
+
+---
+
+### FinPilot – LLM Financial Intelligence Assistant
+
+AI financial assistant built using **Gemini and Claude LLMs**.
+
+Features
+
+• Financial anomaly detection  
+• AI-generated business insights  
+• Trend forecasting  
+• React dashboard with Supabase integration
+
+---
+
+### LLM HR Resume Screening Automation
+
+Automated recruitment pipeline using **n8n agents and GPT models**.
+
+Capabilities
+
+• Resume parsing and scoring  
+• Job description matching  
+• Gmail + Google Drive + Sheets integration  
+• Automated shortlist generation
+
+---
+
+# 🧪 Research Publication
+
+**A Flexible Multi-Task Structure Contextual Modality Attention-Based Emotion Recognition**
+
+Published in  
+
+**IEEE – 3rd International Conference on Sustainable Computing and Data Communication Systems (ICSCDS-2025)**
+
+---
+
+# 🏆 Achievements
+
+🥉 **3rd Place – Alliance One Code Sangram Hackathon**  
+36-hour national-level AI hackathon (₹30,000 prize)
+
+🎨 **Special Prize – AARAM 2025 UX Designathon**
+
+📄 **IEEE Research Publication**
+
+🌍 **Google Student Ambassador (2025-2026)**
+
+🤝 **Secretary – Rotaract Club (2025-2026)**
 
 ---
 
@@ -80,15 +170,23 @@ I build **AI-powered applications, automation tools, and intelligent systems** u
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinodhan07&theme=tokyo-night"/>
 
 ---
 
-# 🧊 3D Contribution Summary
+# 🧊 Contribution Summary
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinodhan07&theme=tokyonight">
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=vinodhan07&theme=algolia&row=1&column=7"/>
+</p>
 
 ---
 
@@ -98,22 +196,25 @@ I build **AI-powered applications, automation tools, and intelligent systems** u
 
 ---
 
+# 📜 Certifications
+
+• Claude Code in Action – Anthropic  
+• Master n8n AI Agents – Udemy  
+• Google Student Ambassador Graduate  
+• AI for Beginners – HP LIFE
+
+---
+
 # 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vinodhan21/)
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:vinovb21@gmail.com)
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/vaivin)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Vinodhan08/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/vinodhan07)
 
 ---
 
-# 💡 Quote
+# 💡 Philosophy
 
-> Turning ideas into intelligent AI solutions.
-
----
-
-⭐ If you like my projects, consider giving them a star!
+**Building intelligent systems that automate complex work and augment human decision-making.**
