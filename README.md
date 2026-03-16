@@ -1,56 +1,119 @@
-# 👋 Hi, I'm Vinodhan  
-🚀 **AI & Python Enthusiast | Building Innovative Solutions | Open to Collaboration & Opportunities**  
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Vinodhan;AI+Developer;Python+Engineer;Machine+Learning+Enthusiast;Building+AI+Powered+Applications"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=vinodhan07&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
 
 ---
 
-## 🔭 I’m currently working on
-- **AI Virtual Voice Assistant** – A Python-based voice & text assistant powered by OpenAI GPT.  
-- Exploring **Machine Learning & Deep Learning projects** for real-world applications.  
+# 🚀 AI Developer | Python Engineer | ML Enthusiast
+
+I build **AI-powered applications, automation tools, and intelligent systems** using modern machine learning and Python frameworks.
+
+### 🔬 Focus Areas
+
+• Artificial Intelligence  
+• Machine Learning  
+• AI Automation  
+• Voice Assistants  
+• GPT Applications  
 
 ---
 
-## 💻 Skills & Technologies
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)  
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)  
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+# 🧠 Tech Stack
+
+## Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
+
+## Tools & Frameworks
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ---
 
-## 📌 Featured Projects
+# 🏆 GitHub Achievements
 
-### 1. [AI Virtual Voice Assistant](https://github.com/vinodhan07/AI_Virutal_VOICE_ASSIT)
-- 🗣️ Voice & text input-based AI assistant  
-- 🌐 Web automation, real-time info, AI-powered responses  
-
-### 2. [ChatGPT-2](https://github.com/vinodhan07/Chatgpt-2.git)
-- 🤖 Custom GPT-based chatbot  
-- 💬 Interactive AI conversation system in Python    
-
-### 3. [FinAI HackOps](https://github.com/vinodhan07/finai-hackops-10799-23158.git)
-- 💹 Financial AI project for Hackathon  
-- 📊 Predictive analytics & intelligent automation  
-- ![FinAI HackOps Demo](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)  
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=vinodhan07&theme=algolia&no-frame=true&row=1&column=7"/>
+</p>
 
 ---
 
-## 📈 GitHub Stats
-![Vinodhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinodhan07&show_icons=true&theme=radical)  
+# 🚀 Featured Projects
+
+<a href="https://github.com/vinodhan07/AI_Virutal_VOICE_ASSIT">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vinodhan07&repo=AI_Virutal_VOICE_ASSIT&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/vinodhan07/Chatgpt-2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vinodhan07&repo=Chatgpt-2&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/vinodhan07/finai-hackops-10799-23158">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vinodhan07&repo=finai-hackops-10799-23158&theme=tokyonight" />
+</a>
 
 ---
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinodhan21/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vinovb21@gmail.com)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/vaivin)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Vinodhan08/)
+# 📊 GitHub Analytics
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=vinodhan07&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=vinodhan07&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinodhan07&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-## 💬 Fun Fact
-I love **turning ideas into AI-powered solutions** and exploring the latest in **tech innovation**.
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinodhan07&theme=tokyo-night"/>
+
+---
+
+# 🧊 3D Contribution Summary
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinodhan07&theme=tokyonight">
+
+---
+
+# 🐍 Contribution Snake
+
+<img src="https://github.com/vinodhan07/vinodhan07/blob/output/github-contribution-grid-snake.svg">
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vinodhan21/)
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:vinovb21@gmail.com)
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/vaivin)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Vinodhan08/)
+
+---
+
+# 💡 Quote
+
+> Turning ideas into intelligent AI solutions.
+
+---
+
+⭐ If you like my projects, consider giving them a star!
