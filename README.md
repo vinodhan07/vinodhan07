@@ -134,9 +134,9 @@ Final-year Computer Science student dedicated to architecting **intelligent syst
 </p>
 
 <p align="center">
-  <sub>Built with ❤️ by Vinodhan</sub>
+  <img src="https://raw.githubusercontent.com/vinodhan07/vinodhan07/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/vinodhan07/vinodhan07/blob/output/github-contribution-grid-snake.svg" />
+  <sub><b>Built with ❤️ by Vinodhan</b></sub>
 </p>
