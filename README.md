@@ -8,12 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=vinodhan07&label=Profile%20Views&color=0e75b6&style=for-the-badge&logo=github" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vinodhan07&theme=tokyonight&column=4&no-bg=true&no-frame=false&margin-w=15" alt="vinodhan07 trophies" />
-  </a>
-</p>
-
 ---
 
 ### 🚀 About Me
