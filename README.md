@@ -80,9 +80,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinodhan07/vinodhan07/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinodhan07/vinodhan07/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vinodhan07/vinodhan07/output/github-contribution-grid-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinodhan07/vinodhan07/output/github-contribution-grid-snake-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinodhan07/vinodhan07/output/github-contribution-grid-snake.svg?v=1">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vinodhan07/vinodhan07/output/github-contribution-grid-snake.svg?v=1" width="100%">
   </picture>
 </p>
 
@@ -91,7 +91,7 @@
 ### 🧊 3D Contribution Calendar
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vinodhan07/vinodhan07/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Component" onerror="this.style.display='none'"/>
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Component" onerror="this.style.display='none'"/>
 </p>
 
 > *Note: If the 3D calendar doesn't load, you'll need to set up the [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) GitHub Action.*
