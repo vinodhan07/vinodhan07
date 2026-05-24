@@ -172,8 +172,8 @@ Enterprise-grade CLI utility for managing **API keys and environment variables**
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vinodhan07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&v=1" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinodhan07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vinodhan07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&v=1" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vinodhan07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Top Languages"/>
 </p>
 
 <p align="center">
