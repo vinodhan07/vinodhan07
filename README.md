@@ -3,14 +3,14 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Vinodhan+V+A;AI+Engineer+%7C+LLM+Developer+%7C+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Vinodhan+V+A;AI+Engineer+%7C+LLM+Developer+%7C+Builder" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vavinodhan"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:vinovb21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/vinodhan07"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=vinodhan07&color=0e75b6&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=vinodhan07&color=0e75b6&style=flat-square&label=Profile+Views&v=1" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
@@ -172,16 +172,24 @@ Enterprise-grade CLI utility for managing **API keys and environment variables**
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vinodhan07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinodhan07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vinodhan07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&v=1" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinodhan07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=vinodhan07&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  <img width="70%" src="https://streak-stats.demolab.com/?user=vinodhan07&theme=tokyonight&hide_border=true&background=0D1117&v=1" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinodhan07&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="98%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinodhan07&theme=tokyo-night&hide_border=true&bg_color=0D1117&v=1" width="98%" alt="Activity Graph"/>
+</p>
+
+---
+
+### 🧊 3D Contribution Graph
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%">
 </p>
 
 ---
@@ -190,16 +198,16 @@ Enterprise-grade CLI utility for managing **API keys and environment variables**
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinodhan07/vinodhan07/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinodhan07/vinodhan07/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/vinodhan07/vinodhan07/output/github-contribution-grid-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinodhan07/vinodhan07/output/github-contribution-grid-snake-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinodhan07/vinodhan07/output/github-contribution-grid-snake.svg?v=1">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/vinodhan07/vinodhan07/output/github-contribution-grid-snake.svg?v=1" width="100%">
   </picture>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vinodhan07&theme=algolia&no-frame=true&column=7&margin-w=10" alt="Trophies" width="90%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vinodhan07&theme=algolia&no-frame=true&column=7&margin-w=10&v=1" alt="Trophies" width="90%"/>
 </p>
 
 ---
@@ -214,3 +222,4 @@ Enterprise-grade CLI utility for managing **API keys and environment variables**
 </p>
 
 <p align="center"><sub>⭐ Star my repos if you find them useful — it means a lot!</sub></p>
+
