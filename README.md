@@ -231,16 +231,6 @@ Voice-controlled AI assistant with real-time speech recognition, natural languag
 
 ---
 
-## 🏅 &nbsp;Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vinodhan07&theme=algolia&column=4&margin-w=12&margin-h=12&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
-
-</div>
-
----
-
 <div align="center">
 
 <i>"Building intelligent systems that automate the complex and amplify human potential."</i>
