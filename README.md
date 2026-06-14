@@ -28,7 +28,7 @@
 <tr>
 <td width="58%" valign="top">
 
-I'm **Vinodhan V A**, an **AI Engineer** from Salem, Tamil Nadu 🇮🇳, focused on shipping **production-grade AI** — from LLM agents and RAG systems to computer vision and full-stack AI products.
+I'm **Vinodhan V A**, an **AI Engineer** focused on shipping **production-grade AI** — from LLM agents and RAG systems to computer vision and full-stack AI products.
 
 ```yaml
 role:       AI Engineer & LLM Developer
