@@ -1,80 +1,68 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 𝗩𝗜𝗡𝗢𝗗𝗛𝗔𝗡 𝗩 𝗔 — GitHub Profile README                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=220&section=header&text=Vinodhan%20V%20A&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20LLM%20Developer%20%E2%80%A2%20ML%20Researcher&descAlignY=60&descSize=20" width="100%"/>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Vinodhan+V+A;AI+Engineer+%7C+LLM+Developer+%7C+Builder" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&repeat=true&width=620&lines=Building+production-grade+AI+systems...;Turning+LLMs+into+real+products...;From+RAG+pipelines+to+multi-agent+flows...;Computer+Vision+%7C+FastAPI+%7C+React+%7C+n8n" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vinodhan21/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:vinovb21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/vinodhan07"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=vinodhan07&color=0e75b6&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/vinodhan07?label=Followers&style=flat-square&color=0e75b6" />
-</p>
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/vinodhan21/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://vinodhan.online">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:vinovb21@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=vinodhan07&color=0e75b6&style=for-the-badge&label=Profile+Views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/vinodhan07?label=Followers&style=for-the-badge&color=0e75b6" />
+</div>
+
+<br/>
+
+---
 
 ```python
-# ⚡ vinodhan.py — who am I?
+# ⚡ vinodhan.py
 class AIEngineer:
-    def __init__(self):
-        self.name        = "Vinodhan V A"
-        self.role        = "AI Engineer & LLM Developer"
-        self.education   = "B.E. Computer Science — KIOT, Salem (CGPA: 7.7)"
-        self.location    = "Salem, Tamil Nadu 🇮🇳"
-        self.contact     = "vinovb21@gmail.com"
+    name        = "Vinodhan V A"
+    role        = "AI Engineer & LLM Developer"
+    education   = "B.E. Computer Science — KIOT, Salem  |  CGPA: 7.7"
+    location    = "Salem, Tamil Nadu 🇮🇳"
+    contact     = "vinovb21@gmail.com"
 
-    @property
-    def expertise(self):
-        return [
-            "🤖 AI Agents & Multi-Agent Systems",
-            "🔗 RAG Pipelines (LangChain / LangGraph)",
-            "👁️ Computer Vision (YOLOv8, OpenCLIP)",
-            "⚙️ n8n Workflow Automation",
-            "🚀 Full-Stack AI (FastAPI + React)",
-        ]
+    expertise   = [
+        "🤖  AI Agents & Multi-Agent Systems",
+        "🔗  RAG Pipelines  (LangChain / LangGraph)",
+        "👁️  Computer Vision  (YOLOv8, OpenCLIP, FAISS)",
+        "⚙️  Workflow Automation  (n8n, Webhooks)",
+        "🚀  Full-Stack AI  (FastAPI + React + Supabase)",
+    ]
 
-    @property
-    def currently_building(self):
-        return {
-            "OmniFlow AI": "Multi-agent workflow automation with n8n",
-            "FinPilot":     "LLM-powered financial intelligence platform",
-            "EnvVault":     "Secure credential management CLI",
-        }
-
-me = AIEngineer()
+    building    = {
+        "OmniFlow AI" : "Multi-agent workflow automation",
+        "FinPilot"    : "LLM-powered financial intelligence",
+        "EnvVault"    : "Secure developer credential manager",
+    }
 ```
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" /><br><sub><b>Python</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48" /><br><sub><b>JavaScript</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" /><br><sub><b>React</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=fastapi" width="48" /><br><sub><b>FastAPI</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" /><br><sub><b>Docker</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" /><br><sub><b>MongoDB</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=supabase" width="48" /><br><sub><b>Supabase</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="48" /><br><sub><b>AWS</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=gcp" width="48" /><br><sub><b>GCP</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pytorch" width="48" /><br><sub><b>PyTorch</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" /><br><sub><b>TensorFlow</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=opencv" width="48" /><br><sub><b>OpenCV</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" /><br><sub><b>Git</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48" /><br><sub><b>Linux</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48" /><br><sub><b>Postman</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" /><br><sub><b>VS Code</b></sub></td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,fastapi,docker,mongodb,supabase,aws,gcp,pytorch,tensorflow,opencv,git,linux,postman,vscode&perline=8" />
+</div>
 
-<p align="left">
+<br/>
+
+<div align="center">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" />
@@ -83,46 +71,53 @@ me = AIEngineer()
   <img src="https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black" />
-</p>
+  <img src="https://img.shields.io/badge/OpenCLIP-FF6B35?style=flat-square&logo=pytorch&logoColor=white" />
+</div>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projects
+
+#### 🤖 AI & LLM Applications
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🖼️ [AI Image Similarity Detection](https://github.com/vinodhan07/AI-Based-Image-Similarity-WEB-Scrapping-tool)
-> OpenCLIP · FAISS · FastAPI · React
+**[💰 FinPilot — Financial Intelligence](https://github.com/vinodhan07/finai-hackops)**
 
-Built a semantic image retrieval system using **OpenCLIP embeddings** and **FAISS vector indexing**. Automated web scraping pipeline increased dataset coverage by **40%**, enabling comparison across **5,000+ images with sub-second latency**.
+LLM-powered financial analysis platform built with a 4-member team. Multi-model support (Gemini + Claude), REST APIs for financial dataset processing, and interactive dashboards that cut manual analysis time by **40%**.
+
+`Gemini` `Claude` `Supabase` `React` `FastAPI`
 
 </td>
 <td width="50%" valign="top">
 
-#### 💰 [FinPilot — Financial Intelligence](https://github.com/vinodhan07/finai-hackops)
-> Gemini · Claude · Supabase · React
+**[⚡ OmniFlow AI — Multi-Agent Automation](https://github.com/N8n-automations-works/OmniFlow-AI)**
 
-Led a 4-member team to build an **LLM-powered financial analysis platform**. Engineered REST APIs for financial dataset processing. Interactive dashboards reduced manual analysis time by **40%**.
+Multi-agent AI system with n8n workflow orchestration. LLM-powered agents handle API-driven pipelines, intelligent task execution, and decision-based routing across automated workflows.
+
+`n8n` `LangGraph` `OpenAI` `Claude` `Webhooks`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### ⚡ [OmniFlow AI — Multi-Agent Automation](https://github.com/N8n-automations-works/OmniFlow-AI)
-> n8n · OpenAI · Claude · Webhooks
+**[🤖 AI Agents Intensive — Google](https://github.com/vinodhan07/AI_Agents_Intensive_Course_with_Google)**
 
-Developed a **multi-agent AI automation system** with **n8n workflow orchestration**. Integrated LLM-powered agents with API-driven pipelines for intelligent task execution and decision-based workflow routing.
+Hands-on exploration of agent architectures, tool use, RAG pipelines, and multi-agent coordination — part of Google's AI Agents Intensive program.
+
+`LangChain` `Gemini` `RAG` `Python` `Jupyter`
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔐 EnvVault — Secure Credential Manager
-> Python · Cryptography · CLI
+**[🧠 GPT-2 Implementation](https://github.com/vinodhan07/Chatgpt-2)**
 
-Enterprise-grade CLI utility for managing **API keys and environment variables** securely. Supports encrypted credential storage and multi-project configuration deployment.
+Built a GPT-2 language model from scratch to understand transformer internals — attention mechanisms, positional encoding, and autoregressive generation.
+
+`Python` `PyTorch` `Transformers`
 
 </td>
 </tr>
@@ -130,14 +125,70 @@ Enterprise-grade CLI utility for managing **API keys and environment variables**
 
 ---
 
-### 📄 Research & Publication
+#### 👁️ Computer Vision
 
 <table>
 <tr>
-<td>📜</td>
+<td width="50%" valign="top">
+
+**[🖼️ AI Image Similarity Detection](https://github.com/vinodhan07/AI-Based-Image-Similarity-WEB-Scrapping-tool)**
+
+Semantic image retrieval using OpenCLIP embeddings and FAISS vector indexing. Automated scraping pipeline expanded dataset coverage by **40%**, enabling similarity search across **5,000+ images** with sub-second latency.
+
+`OpenCLIP` `FAISS` `FastAPI` `React` `Python`
+
+</td>
+<td width="50%" valign="top">
+
+**[🏷️ Real-Time Video Annotation](https://github.com/vinodhan07/REAL-TIME-ANNOTATION-USING-VIDEOS)**
+
+Real-time object detection and annotation directly on live video streams. Processes frames on-the-fly with bounding boxes and class labels using YOLOv8.
+
+`YOLOv8` `OpenCV` `Python` `Real-Time`
+
+</td>
+</tr>
+</table>
+
+---
+
+#### 🔧 Tools & Utilities
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔐 EnvVault — Secure Credential Manager**
+
+Enterprise-grade CLI for managing API keys and environment variables with encrypted storage. Supports multi-project configuration and secure credential deployment.
+
+`Python` `Cryptography` `CLI`
+
+</td>
+<td width="50%" valign="top">
+
+**[🎙️ AI Virtual Voice Assistant](https://github.com/vinodhan07/AI_Virutal_VOICE_ASSIT)**
+
+Voice-controlled AI assistant with real-time speech recognition, natural language understanding, and voice response — hands-free interaction with AI.
+
+`Python` `SpeechRecognition` `pyttsx3` `NLP`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📄 Research
+
+<table>
+<tr>
 <td>
-  <strong><a href="https://ieeexplore.ieee.org/document/11167765/metrics#metrics">A Flexible Multi-Task Structure Contextual Modality Attention-Based Emotion Recognition</a></strong><br/>
-  <sub>IEEE — 3rd International Conference on Sustainable Computing and Data Communication Systems (ICSCDS-2025)</sub>
+  <a href="https://ieeexplore.ieee.org/document/11167765/metrics#metrics">
+    <b>A Flexible Multi-Task Structure Contextual Modality Attention-Based Emotion Recognition</b>
+  </a>
+  <br/>
+  <sub>📍 IEEE ICSCDS-2025 — 3rd International Conference on Sustainable Computing and Data Communication Systems</sub>
 </td>
 </tr>
 </table>
@@ -146,80 +197,71 @@ Enterprise-grade CLI utility for managing **API keys and environment variables**
 
 ### 🏆 Achievements & Leadership
 
-| 🏅 | Achievement |
-|:---:|:---|
-| 🥉 | **3rd Place** — Alliance One Code Sangram (National Hackathon, 36hrs, ₹30,000 prize) |
-| 🎨 | **Special Prize** — AARAM'25 UX Designathon by Cybernaut EdTech |
-| 🌍 | **Google Student Ambassador**, KIOT (2025–2026) |
-| 🤝 | **Secretary**, Rotaract Club, KIOT (2025–2026) |
+| | |
+|---|---|
+| 🥉 **3rd Place** — Alliance One Code Sangram National Hackathon _(36hrs · ₹30,000 prize)_ | 🎨 **Special Prize** — AARAM'25 UX Designathon by Cybernaut EdTech |
+| 🌍 **Google Student Ambassador** — KIOT _(2025–2026)_ | 🤝 **Secretary** — Rotaract Club, KIOT _(2025–2026)_ |
 
 ---
 
 ### 📜 Certifications
 
-| Certificate | Issuer |
+| Certificate | Issued By |
 |:---|:---|
 | Claude Code in Action | Anthropic |
 | Master n8n AI Agents: Build & Sell AI Agents | Udemy |
-| AI for Beginners | HP LIFE |
 | Prompt Engineering | Great Learning Academy |
+| AI for Beginners | HP LIFE |
 
-<p align="right">
-  <a href="https://www.linkedin.com/in/vinodhan21/details/certifications/"><sub>🔗 View all certificates →</sub></a>
-</p>
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vinodhan07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vinodhan07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=vinodhan07&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinodhan07&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="98%" alt="Activity Graph"/>
-</p>
+<p align="right"><a href="https://www.linkedin.com/in/vinodhan21/details/certifications/"><sub>🔗 View all on LinkedIn →</sub></a></p>
 
 ---
 
-### 🧊 3D Contribution Graph
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%">
-</p>
+<div align="center">
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vinodhan07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vinodhan07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
+</div>
 
----
+<br/>
 
-### 🐍 Contribution Snake
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=vinodhan07&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8" />
+</div>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinodhan07/vinodhan07/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinodhan07/vinodhan07/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/vinodhan07/vinodhan07/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
-</p>
+<br/>
 
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vinodhan07&theme=algolia&no-frame=true&column=7&margin-w=10" alt="Trophies" width="90%"/>
-</p>
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=vinodhan07&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00B4D8&line=00B4D8&point=ffffff" />
+</div>
 
 ---
 
-<p align="center">
-  <b>💬 "Building intelligent systems that automate the complex and amplify human potential."</b>
-</p>
+### 🏅 Trophies
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vinodhan21/"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:vinovb21@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vinodhan07&theme=algolia&no-frame=true&column=7&margin-w=8" width="100%"/>
+</div>
 
-<p align="center"><sub>⭐ Star my repos if you find them useful — it means a lot!</sub></p>
+---
+
+<div align="center">
+  <br/>
+  <i>"Building intelligent systems that automate the complex and amplify human potential."</i>
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/vinodhan21/">
+    <img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://vinodhan.online">
+    <img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:vinovb21@gmail.com">
+    <img src="https://img.shields.io/badge/Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <br/><br/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=footer" width="100%"/>
