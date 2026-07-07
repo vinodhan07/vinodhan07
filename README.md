@@ -3,7 +3,7 @@
 <!-- ╚═══════════════════════════════════════════════════════════════════════╝ -->
 
 <a href="https://vinodhan.online">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0b1622,50:0e75b6,100:00b4d8&height=230&section=header&text=Vinodhan%20V%20A&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20Engineer%20%C2%B7%20LLM%20Developer%20%C2%B7%20ML%20Researcher&descAlignY=62&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0b1622,50:0e75b6,100:00b4d8&height=230&section=header&text=Vinodhan%20V%20A&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20Engineer%20%C2%B7%20C2%B7%%20Researcher&descAlignY=62&descSize=18" width="100%"/>
 </a>
 
 <div align="center">
